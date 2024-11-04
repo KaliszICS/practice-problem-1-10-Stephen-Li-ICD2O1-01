@@ -24,9 +24,9 @@ def q4():
 def q5(): 
   num1 = float(input("Input a number: "))
   num2 = float(input("Input another number: "))
-  num = num1 * num2
-  num = num / 2
-  print(math.floor(num))
+  num3 = num1 * num2
+  num4 = num3 // 2
+  print(math.floor(num4))
 
 
 
