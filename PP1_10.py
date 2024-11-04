@@ -7,7 +7,7 @@ def q1():
 
 
 def q2(): 
-  num = float(input("Input a number: "))
+  num = int(input("Input a number: "))
   print(math.isqrt(num))
 
 
